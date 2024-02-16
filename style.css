@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: #999;
+}
+.lisec img{
+    width: 100%;
+    height: 800px;
+}
+.dot img{
+    width: 92%;
+}
+.cer{
+    width: 90%;
+}
+.pictwo img{
+    width: 99%;
+    height: 900px
+}
+.date{
+    text-align: end;
+}
+.nex{
+    width: 46%;
+}
+.fine i{
+    color: white;
+    margin-left: 26%;
+}
+.nett{
+    width: 24%;
+    margin-left: 63%;
+    border: 1px solid rgb(104, 101, 101);
+    margin-bottom: 15%;
+
+}
+.par{
+    width: 88%;
+}
+.par p{
+    width: fit-content;
+    color: #999;
+}
+
+.nuts{
+    width: 29%;
+}
+.conpic img{
+    width: 100%;
+    height: 600px;
+}
+.ttwos{
+    color: #999;
+}
+
+@media screen and (min-width:250px) and (max-width:1024px) {
+    h2{
+        text-align: center;
+    }
+    .cer{
+        text-align: center;
+        justify-content: center;
+    }
+    .nuts{
+        width: 45%;
+        font-size: 22px;
+    }
+    .subpara{
+        text-align: center;
+        justify-content: center;
+    }
+    .date{
+        justify-content: center;
+    }
+    .hepara{
+        text-align: center;
+
+    }
+    .btn{
+        text-align: end;
+
+    }
+    .nex{
+        width: 37%;
+    }
+    .letpara{
+        text-align: center;
+        justify-content: center;
+    }
+    .fine i{
+        text-align: center;
+        margin-left:40%;
+        justify-content: center;
+    }
+    .nett{
+        width: 39%;
+        margin-left: 59%;
+    }
+    .par{
+        text-align: center;
+        justify-content: center;
+    }
+    .pictwo img{
+        width: 99%;
+        height: 500px
+    }
+    .parr{
+        text-align: center;
+        justify-content: center;
+    }
+}
